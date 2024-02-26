@@ -158,8 +158,8 @@ nav ul li a:hover {
 
   .nav-toggle {
     position: absolute;
-    top: 15px; /* Adjust as needed */
-    right: 5px; /* Adjust as needed */
+    top: 0px; /* Adjust as needed */
+    right: 0px; /* Adjust as needed */
   }
 }
 
@@ -177,7 +177,7 @@ nav ul li a:hover {
   }
 
   .nav-toggle span {
-    font-size: 22px;
+    font-size: 26px;
   }
 
   .nav-menu.nav-menu.nav-menu_visible {
